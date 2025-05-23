@@ -1,0 +1,26 @@
+{
+  "name": "practice-writing-unittests-garrett-white",
+  "version": "1.0.0",
+  "main": "cart.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoulansi/practice-writing-unitTests-garrett-white.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoulansi/practice-writing-unitTests-garrett-white/issues"
+  },
+  "homepage": "https://github.com/shoulansi/practice-writing-unitTests-garrett-white#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
